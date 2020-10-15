@@ -3,7 +3,7 @@
 
 void main()
 {
-in x,y,count;
+int x,y,count;
 float z,simp_int;
 clrscr();
 
