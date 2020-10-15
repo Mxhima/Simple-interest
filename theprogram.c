@@ -13,7 +13,7 @@ print(“\n\nEnter the value for x, y & z\n\n”);
 scanf(“%d%d%f”,&x,&y,&z);
 
 simp_int=x*y*z/100;
-printf(“Simple Interest=%f”,simp_in);
+printf(“Simple_Int=%f”,simp_in);
 }
 getch();
 }
